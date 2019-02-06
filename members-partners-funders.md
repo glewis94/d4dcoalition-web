@@ -25,7 +25,7 @@ sections:
   - title: "Technology Partners"
     list: tech-partners
     anchor: "tech-partners"
-    text: "Our technology partners are contributing financially to the D4D Coalition and have expressed a commitment to work with D4D to advance its mission."
+    text: "Our technology partners are contributing financially to the D4D Coalition and have expressed a commitment to work with D4D to advance its mission. Click on the link to find out more!"
     
 
 ---
