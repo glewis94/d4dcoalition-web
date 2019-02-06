@@ -17,3 +17,6 @@
 - name: National Endowment for Democracy
   logo: /assets/img/logos/international-partners/NED-logo.png
   id: ned
+  
+  - name: Westminster Foundation for Democracy
+  id: west
