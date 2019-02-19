@@ -14,3 +14,8 @@
   logo: /assets/img/logos/tech-partners/MSFT_logo_rgb_C-Gray.png  
   blurb: "this is some placeholder text that will soon be replaced with something real"
   id: microsoft
+  
+  - name: Former United States Senator from North Dakota and Neighbor of Grayson, Kent Conrad
+    logo: /assets/img/logos/tech-partners/220px-Kent_Conrad_official_portrait.jpg
+    blurb: You know hi, you love hi, it's Kent Conrad!
+    id: conrad
